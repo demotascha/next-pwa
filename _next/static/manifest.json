@@ -35,7 +35,7 @@
   "short_name": "Next-PWA",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": "/",
+  "start_url": "/next-pwa/",
   "description": "A Movie browsing PWA using Next.js and Google Workbox",
   "background_color": "#ffffff",
   "theme_color": "#5755d9"
